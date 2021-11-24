@@ -1,0 +1,42 @@
+Assignment 1
+Consider the numbers between 1 and 100. Write a java program to find the summation of even integer numbers and odd integer numbers separately in this range.
+You are given a binary String contains only ‘1’s  and ‘0’ s. Print the inverted version of this string.
+Example:
+
+input:   101100110 
+
+output: 010011001
+
+ 
+
+Write a java program to take the substring and a string from the user and print the number of occurrences of the substring in the given string.
+Example:
+
+Enter the substring: abc
+
+Enter the string: avabcmmkabcayzuabcabcc
+
+Number of occurrences of abc: 4
+
+ 
+
+Write a java program to print the number of days in a month when user enters year and the month number
+Example1:
+
+Enter the year: 2012
+
+Enter the month: 2
+
+No of days: 29
+
+Example2:
+
+Enter the year: 2021
+
+Enter the month: 3
+
+No of days: 31
+
+ 
+
+Write a do-while loop that asks the user to enter a number. The square of the numbers should be calculated and displayed. The loop should ask the user whether he or she wishes to perform the operation again. If so, the loop should repeat; otherwise, it should terminate.
